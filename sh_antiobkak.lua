@@ -45,6 +45,7 @@ if SERVER then
 			sendreport(p,"detected silent aim(the more the more likely X:"..x.." Y:"..y..")")
 		end
 	end)
+	--nospread breaker
 	local c=FindMetaTable"Entity"
 	if activefunctions.nospreadbreaker then
 		c.OldFireBullets = c.OldFireBullets or c.FireBullets
