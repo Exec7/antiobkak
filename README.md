@@ -1,2 +1,3 @@
 # antiobkak
-cool and simple ac for gmod
+cool and simple anticheat for gmod
+upload to garrysmod/lua/autorun
